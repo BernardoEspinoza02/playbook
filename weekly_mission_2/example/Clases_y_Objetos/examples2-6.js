@@ -1,0 +1,1 @@
+// Ejemplo 6: Getters para c
