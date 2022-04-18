@@ -1,5 +1,19 @@
 # Weekly Mission 3
 
+## Objetivo ✨
+
+Dento de las cosas que se crearan esta semana es:
+
++ Creacion de proyecto de JS 
++ Uso de Node Package Manager (NPM) para inicializar proyectos y agregar dependencias.
++ Modularización de archivos
++ Creación de estructuras de directorios para nuestros proyectos
++ TDD para diseño de software
++ Modelo de estructuración de directorios
++ Express JS como framework para crear servers
++ Creación de un API como Express
++ Pruebas de endpoints con Postman 
+
 Proyectos desarrollados en la semana 3:
 
 | Proyecto | Práctica | Link al repo |
