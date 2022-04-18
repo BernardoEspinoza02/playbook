@@ -14,6 +14,8 @@ Dento de las cosas que se crearan esta semana es:
 + Creación de un API como Express
 + Pruebas de endpoints con Postman 
 
+![Image text](https://github.com/BernardoEspinoza02/playbook/blob/main/weekly_mission_3/Imagenes/Semana3.png)
+
 Proyectos desarrollados en la semana 3:
 
 | Proyecto | Práctica | Link al repo |
