@@ -61,3 +61,9 @@ const explorers = [
 
  explorers.forEach((explorers) => console.log(explorers.name))
  explorers.forEach((explorers) => console.log(explorers.stack)) 
+
+ const newStack = explorers.map (function(explorers){
+   var rObj = {};
+   rObj[explorers.stack] = explorers.stack;
+   return rObj;
+ })
