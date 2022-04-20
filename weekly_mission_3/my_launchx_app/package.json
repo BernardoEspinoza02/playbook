@@ -4,7 +4,8 @@
   "description": "launchx",
   "main": "launchx",
   "scripts": {
-    "test": "launchx"
+    "test": "launchx",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
