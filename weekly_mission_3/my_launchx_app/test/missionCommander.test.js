@@ -8,6 +8,6 @@ describe("Unit Tests for Mission Commander Class", () => {
         const myMissioncomander = new MissionCommander("Woopa")
 
         //Validar el resultado esperado 
-        expect (myMissioncomander.name).toBe("Woopaa");
+        expect (myMissioncomander.name).toBe("Woopa");
     });
 })
