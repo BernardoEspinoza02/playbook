@@ -1,0 +1,15 @@
+{
+  "name": "bernardo",
+  "version": "1.0.0",
+  "description": "launchx",
+  "main": "launchx",
+  "scripts": {
+    "test": "launchx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "my_launchx_app"
+  },
+  "author": "",
+  "license": "ISC"
+}
