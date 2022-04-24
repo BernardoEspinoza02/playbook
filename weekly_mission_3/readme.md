@@ -20,8 +20,10 @@ Proyectos desarrollados en la semana 3:
 
 | Proyecto | Práctica | Link al repo |
 | ------------- |:-------------:| -----:|
-|`my_launchx_app`|1|[Link al repo](https://github.com/BernardoEspinoza02/playbook/tree/main/weekly_mission_3/my_launchx_app)|
-|`spiderverse`|2|[En construcción](https://github.com/BernardoEspinoza02)|
-|`twitter`|3, 4, 5|[En construcción](https://github.com/BernardoEspinoza02)|
+|`my_launchx_app`|1|[Link al repo](https://github.com/BernardoEspinoza02/my_launchx_app)|
+|`spiderverse`|2|[Link al repo](https://github.com/BernardoEspinoza02/Spidervers)|
+|`Models`|3|[Link al repo](https://github.com/BernardoEspinoza02/Models)|
+|`Services`|4|[En construcción](https://github.com/BernardoEspinoza02)|
+|`Views`|5|[En construcción](https://github.com/BernardoEspinoza02)|
 |`express_basic`|6|[En construcción](https://github.com/BernardoEspinoza02)|
 |`express_api`|7|[En construcción](https://github.com/BernardoEspinoza02)|
