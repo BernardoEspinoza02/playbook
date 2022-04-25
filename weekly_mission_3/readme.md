@@ -26,4 +26,4 @@ Proyectos desarrollados en la semana 3:
 |`Services`|4|[Link al repo](https://github.com/BernardoEspinoza02/services)|
 |`Views`|5|[Link al repo](https://github.com/BernardoEspinoza02/Views)|
 |`express_basic`|6|[Link al repo](https://github.com/BernardoEspinoza02/expresss_basic)|
-|`express_api`|7|[En construcción](https://github.com/BernardoEspinoza02)|
+|`express_api`|7|[Link al repo](https://github.com/BernardoEspinoza02/Express_api)|
