@@ -23,7 +23,7 @@ Proyectos desarrollados en la semana 3:
 |`my_launchx_app`|1|[Link al repo](https://github.com/BernardoEspinoza02/my_launchx_app)|
 |`spiderverse`|2|[Link al repo](https://github.com/BernardoEspinoza02/Spidervers)|
 |`Models`|3|[Link al repo](https://github.com/BernardoEspinoza02/Models)|
-|`Services`|4|[En construcción](https://github.com/BernardoEspinoza02)|
-|`Views`|5|[En construcción](https://github.com/BernardoEspinoza02)|
+|`Services`|4|[Link al repo](https://github.com/BernardoEspinoza02/services)|
+|`Views`|5|[Link al repo](https://github.com/BernardoEspinoza02/Views)|
 |`express_basic`|6|[En construcción](https://github.com/BernardoEspinoza02)|
 |`express_api`|7|[En construcción](https://github.com/BernardoEspinoza02)|
